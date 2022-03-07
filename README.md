@@ -7,7 +7,7 @@ Como executar o processo de ICO de tokens ERC20 na testnet da BSC utilizando o r
 - Adicionar um endpoint RPC para a testnet em seu nó local(web3)
 
 # Adicionando o endpoint da testnet na metamask
-Acesse https://testnet.bscscan.com/ e desça até o rodapé, no canto inferior esquerdo verá: "Add BSC Network" e complete a autenticação e a confirmação solicitada pelo metamask.
+Acesse https://testnet.bscscan.com/ e desça até o rodapé, no canto inferior direito verá: "Add BSC Network" e complete a autenticação e a confirmação solicitada pelo metamask.
 (se você souber o que está fazendo, você pode também adicionar manualmente um endpoint para a testnet de moralis ou qualquer outro da sua preferencia)
 
 # Adequação do contrato no remix
