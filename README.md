@@ -4,7 +4,7 @@ Como executar o processo de ICO de tokens ERC20 na testnet da BSC utilizando o r
 # Requisitos
 - Ter um contrato estruturado adequadamente para o ICO
 - Obter BNB com a Binance Smart Chain Faucet (https://testnet.binance.org/faucet-smart)
-- Adicionar um endpoint RPC para a testnet em seu nó local(web3)
+- Adicionar um endpoint RPC para a testnet em seu nó local(metamask)
 
 # Adicionando o endpoint da testnet na metamask
 Acesse https://testnet.bscscan.com/ e desça até o rodapé, no canto inferior direito verá: "Add BSC Network" e complete a autenticação e a confirmação solicitada pelo metamask.
